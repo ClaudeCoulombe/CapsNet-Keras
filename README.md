@@ -30,7 +30,7 @@ It is time to explore the interacting characteristics of CapsuleNet.
 - Your contributions to the repo are always welcome. 
 Open an issue or contact me with E-mail `guoxifeng1990@163.com` or WeChat `wenlong-guo`.
 
-***iPython Notebook**
+**iPython Notebook**
 Claude Coulombe, PhD candidate TELUQ / UQAM tested the code and
 added a simple iPython Notebook `CapsNet_in_Keras_TensorFlow_Notebook.ipynb` to the project.
 
